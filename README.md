@@ -1,7 +1,7 @@
 # Git1
 Short programs with python
 
-Current programs
+Current programs:
 
-Dice Simulator 
-Rock Paper Scissors
+1- Dice Simulator 
+2- Rock Paper Scissors
